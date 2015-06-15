@@ -6521,6 +6521,9 @@ main .picture {
   border-width: 10px;
   border-color: #FFFFFF;
 }
+main .para-margin {
+  margin: 10px;
+}
 main .spacer {
   margin-top: 20px;
 }
