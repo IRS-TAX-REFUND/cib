@@ -6623,7 +6623,7 @@ header[role="banner"] .utility-nav > ul > li a.facebook {
   color: #3B5998 !important;
 }
 header[role="banner"] .utility-nav > ul > li a.linkedin {
-  padding: 25px 20px 0;
+  padding: 25px 10px 0px 20px;
   color: #007BB6 !important;
 }
 .clearfix:before,
