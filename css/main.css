@@ -6617,7 +6617,9 @@ header[role="banner"] .utility-nav > ul > li > a:hover {
 header[role="banner"] .utility-nav > ul > li a.social {
   padding: 25px 10px 0;
   color: #0000FF !important;
-  hover: #0066FF !important;
+}
+header[role="banner"] .utility-nav > ul > li a:hover.social {
+  color: #0066FF !important;
 }
 .clearfix:before,
 .clearfix:after {
