@@ -6609,10 +6609,13 @@ header[role="banner"] .utility-nav > ul > li {
 }
 header[role="banner"] .utility-nav > ul > li > a {
   display: inline-block;
-  padding: 16px 10px;
+  padding: 16px 15px;
 }
 header[role="banner"] .utility-nav > ul > li > a:hover {
   text-decoration: none;
+}
+header[role="banner"] .utility-nav > ul > li .social {
+  padding: 16px 10px;
 }
 .clearfix:before,
 .clearfix:after {
