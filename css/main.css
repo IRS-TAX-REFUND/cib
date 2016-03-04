@@ -6617,9 +6617,6 @@ header[role="banner"] .utility-nav > ul > li > a:hover {
 header[role="banner"] .utility-nav > ul > li > a .social {
   padding: 16px 10px;
 }
-header[role="banner"] .utility-nav .spacer {
-  padding-right: 50px;
-}
 .clearfix:before,
 .clearfix:after {
   content: " ";
