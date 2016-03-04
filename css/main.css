@@ -6614,12 +6614,17 @@ header[role="banner"] .utility-nav > ul > li > a {
 header[role="banner"] .utility-nav > ul > li > a:hover {
   text-decoration: none;
 }
-header[role="banner"] .utility-nav > ul > li a.social {
+header[role="banner"] .utility-nav > ul > li a.twitter {
   padding: 25px 10px 0;
-  color: #0000FF !important;
+  color: #00ACED !important;
 }
-header[role="banner"] .utility-nav > ul > li a:hover.social {
-  color: #0066FF !important;
+header[role="banner"] .utility-nav > ul > li a.facebook {
+  padding: 25px 10px 0;
+  color: #3B5998 !important;
+}
+header[role="banner"] .utility-nav > ul > li a.linkedin {
+  padding: 25px 10px 0;
+  color: #007BB6 !important;
 }
 .clearfix:before,
 .clearfix:after {
