@@ -6556,12 +6556,12 @@ footer[role="contentinfo"] {
   padding-top: 24px;
   padding-bottom: 24px;
   font-size: 12px;
-  background-color: #006A55;
-  color: #aeaeae;
+  background-color: #005D5D;
+  color: #FFFFFF;
 }
 footer[role="contentinfo"] a:focus:hover,
 footer[role="contentinfo"] a:focus:active {
-  color: #ffac66;
+  color: #cccccc;
 }
 footer[role="contentinfo"] ul {
   list-style: none;
