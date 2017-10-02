@@ -6559,6 +6559,9 @@ footer[role="contentinfo"] {
   background-color: #005D5D;
   color: #FFFFFF;
 }
+footer[role="contentinfo"] a {
+  color: #FFFFFF;
+}
 footer[role="contentinfo"] a:focus:hover,
 footer[role="contentinfo"] a:focus:active {
   color: #cccccc;
