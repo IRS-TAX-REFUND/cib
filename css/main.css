@@ -1988,7 +1988,7 @@ fieldset[disabled] .btn-default.active {
   border-color: #ccc;
 }
 .btn-primary {
-  color: #fff;
+  color: #000;
   background-color: #FF7400;
   border-color: #e66800;
 }
@@ -1997,7 +1997,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary:active,
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
-  color: #fff;
+  color: #000;
   background-color: #d66100;
   border-color: #a84d00;
 }
