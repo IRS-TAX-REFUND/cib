@@ -6566,7 +6566,7 @@ footer[role="contentinfo"] a:focus:hover,
 footer[role="contentinfo"] a:focus:active {
   color: #cccccc;
 }
-footer[role="contentinfo"] btn-default {
+footer[role="contentinfo"] .btn-default {
   color: #000000;
 }
 footer[role="contentinfo"] ul {
