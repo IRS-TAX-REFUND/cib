@@ -7,129 +7,150 @@
 		"uuidString": "45711BCC-6288-4FBA-9FC4-BEE48EFD7A22"
 		}
 	],
-"creatorBuild": "25900",
+"creatorBuild": "26148",
 "files": {
 	"\/.gitattributes": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
 	"\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
 	"\/.htaccess": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.htaccess",
 		"oF": 0
 		},
 	"\/.Rhistory": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/.Rhistory",
 		"oF": 0
 		},
 	"\/404.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/404.html",
 		"oF": 0
 		},
 	"\/about.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/about.html",
 		"oF": 0
 		},
 	"\/acceleration.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/acceleration.html",
 		"oF": 0
 		},
 	"\/atmlocator.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/atmlocator.html",
 		"oF": 0
 		},
 	"\/bankbyphone.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bankbyphone.html",
 		"oF": 0
 		},
 	"\/bloomington.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/bloomington.html",
 		"oF": 0
 		},
 	"\/business.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/business.html",
 		"oF": 0
 		},
 	"\/businesschecking.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/businesschecking.html",
 		"oF": 0
 		},
 	"\/businessloans.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/businessloans.html",
 		"oF": 0
 		},
 	"\/businesssavings.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/businesssavings.html",
 		"oF": 0
 		},
 	"\/businessservices.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/businessservices.html",
 		"oF": 0
 		},
 	"\/cards.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/cards.html",
 		"oF": 0
 		},
 	"\/careers.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/careers.html",
 		"oF": 0
 		},
 	"\/ceomessage.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/ceomessage.html",
 		"oF": 0
 		},
 	"\/champaign.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/champaign.html",
 		"oF": 0
 		},
 	"\/checking.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/checking.html",
 		"oF": 0
 		},
 	"\/contact.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/contact.html",
@@ -196,180 +217,210 @@
 		"oS": 3
 		},
 	"\/danville.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/danville.html",
 		"oF": 0
 		},
 	"\/disclosures.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/disclosures.html",
 		"oF": 0
 		},
 	"\/documents\/CIBM_Online_Banking_Bill_Pay_User_Guide.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/CIBM_Online_Banking_Bill_Pay_User_Guide.pdf",
 		"oF": 0
 		},
 	"\/documents\/cibmsameday.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/cibmsameday.pdf",
 		"oF": 0
 		},
 	"\/documents\/customize your online banking.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/customize your online banking.pdf",
 		"oF": 0
 		},
 	"\/documents\/eStatement Enrollment How to Guide.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/eStatement Enrollment How to Guide.pdf",
 		"oF": 0
 		},
 	"\/documents\/finastra.mp4": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/finastra.mp4",
 		"oF": 0
 		},
 	"\/documents\/finastra.ogv": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/finastra.ogv",
 		"oF": 0
 		},
 	"\/documents\/FraudPreventionvCIBMBank.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/FraudPreventionvCIBMBank.pdf",
 		"oF": 0
 		},
 	"\/documents\/Frequently Asked Questions eStatements.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/Frequently Asked Questions eStatements.pdf",
 		"oF": 0
 		},
 	"\/documents\/MLO.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/MLO.pdf",
 		"oF": 0
 		},
 	"\/documents\/OL_Banking_Cust_Instructions-Alerts.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/OL_Banking_Cust_Instructions-Alerts.pdf",
 		"oF": 0
 		},
 	"\/documents\/OLBankingAppCIBMBank.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/OLBankingAppCIBMBank.pdf",
 		"oF": 0
 		},
 	"\/documents\/Online_Banking_Agreement_CIBMBank.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/Online_Banking_Agreement_CIBMBank.pdf",
 		"oF": 0
 		},
 	"\/documents\/Privacy_Statement.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/Privacy_Statement.pdf",
 		"oF": 0
 		},
 	"\/documents\/ready_line_app1.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/ready_line_app1.pdf",
 		"oF": 0
 		},
 	"\/documents\/ReadyLineBusAcctXfer01.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/ReadyLineBusAcctXfer01.pdf",
 		"oF": 0
 		},
 	"\/documents\/scheduleoffees.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/scheduleoffees.pdf",
 		"oF": 0
 		},
 	"\/documents\/Security_Alert_Business_Customers.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/Security_Alert_Business_Customers.pdf",
 		"oF": 0
 		},
 	"\/documents\/Switch FAQs IL.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/Switch FAQs IL.pdf",
 		"oF": 0
 		},
 	"\/documents\/SwitchBPAuthIL.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/SwitchBPAuthIL.pdf",
 		"oF": 0
 		},
 	"\/documents\/SwitchDDAuthIL.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/SwitchDDAuthIL.pdf",
 		"oF": 0
 		},
 	"\/documents\/target_breach.pdf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/target_breach.pdf",
 		"oF": 0
 		},
 	"\/documents\/Testimonial_Christie_Clinic.mp3": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/Testimonial_Christie_Clinic.mp3",
 		"oF": 0
 		},
 	"\/documents\/Testimonial_Christie_Clinic.ogg": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/documents\/Testimonial_Christie_Clinic.ogg",
 		"oF": 0
 		},
 	"\/employeeservices.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/employeeservices.html",
 		"oF": 0
 		},
 	"\/favicon.ico": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/favicon.ico",
 		"oF": 0
 		},
 	"\/fdic.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fdic.html",
 		"oF": 0
 		},
 	"\/fonts\/.htaccess": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/.htaccess",
 		"oF": 0
 		},
 	"\/fonts\/fontawesome-webfont.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/fontawesome-webfont.eot",
@@ -386,24 +437,28 @@
 		"prP": 0
 		},
 	"\/fonts\/fontawesome-webfont.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/fontawesome-webfont.ttf",
 		"oF": 0
 		},
 	"\/fonts\/fontawesome-webfont.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/fontawesome-webfont.woff",
 		"oF": 0
 		},
 	"\/fonts\/FontAwesome.otf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/FontAwesome.otf",
 		"oF": 0
 		},
 	"\/fonts\/glyphicons-halflings-regular.eot": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/glyphicons-halflings-regular.eot",
@@ -420,60 +475,70 @@
 		"prP": 0
 		},
 	"\/fonts\/glyphicons-halflings-regular.ttf": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/glyphicons-halflings-regular.ttf",
 		"oF": 0
 		},
 	"\/fonts\/glyphicons-halflings-regular.woff": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fonts\/glyphicons-halflings-regular.woff",
 		"oF": 0
 		},
 	"\/footer.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/footer.html",
 		"oF": 0
 		},
 	"\/fraudalerts.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fraudalerts.html",
 		"oF": 0
 		},
 	"\/fraudprevention.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fraudprevention.html",
 		"oF": 0
 		},
 	"\/fundsavailability.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/fundsavailability.html",
 		"oF": 0
 		},
 	"\/header.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/header.html",
 		"oF": 0
 		},
 	"\/humans.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/humans.txt",
 		"oF": 0
 		},
 	"\/img\/#4MarineSpeedometerArtFlat - LeeEdit.psd": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/img\/#4MarineSpeedometerArtFlat - LeeEdit.psd",
 		"oF": 0
 		},
 	"\/img\/.gitignore": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/img\/.gitignore",
@@ -980,6 +1045,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/img\/cib_boost_1600x300.jpg": {
+		"ft": 16384,
+		"iS": 254304,
+		"oA": 0,
+		"oAP": "\/img\/cib_boost_1600x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/img\/CIB_email_logo.jpg": {
 		"ft": 16384,
 		"iS": 49463,
@@ -1183,6 +1258,16 @@
 		"iS": 80367,
 		"oA": 0,
 		"oAP": "\/img\/estatements.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/fall_mm-cd_cib.jpg": {
+		"ft": 16384,
+		"iS": 489461,
+		"oA": 0,
+		"oAP": "\/img\/fall_mm-cd_cib.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2162,12 +2247,14 @@
 		"q": 100
 		},
 	"\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
 		},
 	"\/index.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/index.php",
@@ -2204,6 +2291,7 @@
 		"tS": 0
 		},
 	"\/js\/bootstrap\/.jshintrc": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/js\/bootstrap\/.jshintrc",
@@ -2310,6 +2398,7 @@
 		"tS": 0
 		},
 	"\/js\/bootstrap\/tests\/index.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/js\/bootstrap\/tests\/index.html",
@@ -3643,138 +3732,161 @@
 		"sU": 0
 		},
 	"\/loans.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/loans.html",
 		"oF": 0
 		},
 	"\/locations.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/locations.html",
 		"oF": 0
 		},
 	"\/mailer.php": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/mailer.php",
 		"oF": 0
 		},
 	"\/markets.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/markets.html",
 		"oF": 0
 		},
 	"\/midtown.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/midtown.html",
 		"oF": 0
 		},
 	"\/mobile.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/mobile.html",
 		"oF": 0
 		},
 	"\/mobilechoice.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/mobilechoice.html",
 		"oF": 0
 		},
 	"\/monticello.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/monticello.html",
 		"oF": 0
 		},
 	"\/news.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/news.html",
 		"oF": 0
 		},
 	"\/patriotact.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/patriotact.html",
 		"oF": 0
 		},
 	"\/peoria.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/peoria.html",
 		"oF": 0
 		},
 	"\/personal.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/personal.html",
 		"oF": 0
 		},
 	"\/privacy.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/privacy.html",
 		"oF": 0
 		},
 	"\/privacystatementchildrens.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/privacystatementchildrens.html",
 		"oF": 0
 		},
 	"\/retirement.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/retirement.html",
 		"oF": 0
 		},
 	"\/robots.txt": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
 	"\/savings.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/savings.html",
 		"oF": 0
 		},
 	"\/search.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/search.html",
 		"oF": 0
 		},
 	"\/security.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/security.html",
 		"oF": 0
 		},
 	"\/switch.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/switch.html",
 		"oF": 0
 		},
 	"\/template.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/template.html",
 		"oF": 0
 		},
 	"\/terms.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/terms.html",
 		"oF": 0
 		},
 	"\/urbana.html": {
+		"cB": 0,
 		"ft": 8192,
 		"oA": 2,
 		"oAP": "\/urbana.html",
@@ -4325,6 +4437,10 @@
 			"active": 0,
 			"optionString": "'expression'"
 			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
 		"generator-star-spacing": {
 			"active": 0,
 			"optionString": "{'before': true, 'after': false}"
@@ -4389,9 +4505,9 @@
 			"active": 0,
 			"optionString": "{'beforeBlockComment': true}"
 			},
-		"lines-around-directive": {
+		"lines-between-class-members": {
 			"active": 0,
-			"optionString": "{'before': 'always', 'after': 'always'}"
+			"optionString": "'always', {exceptAfterSingleLine: false}"
 			},
 		"max-depth": {
 			"active": 0,
@@ -4421,6 +4537,10 @@
 			"active": 0,
 			"optionString": "{'max': 1}"
 			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
 		"multiline-ternary": {
 			"active": 0,
 			"optionString": "'always'"
@@ -4430,14 +4550,6 @@
 			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
 			},
 		"new-parens": {
-			"active": 0,
-			"optionString": ""
-			},
-		"newline-after-var": {
-			"active": 0,
-			"optionString": "'always'"
-			},
-		"newline-before-return": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -5532,7 +5644,7 @@
 			}
 		},
 	"languageDefaultsCOFFEE": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.js",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5541,10 +5653,11 @@
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"outputStyle": 0,
-		"syntaxCheckerStyle": 1
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
 		},
 	"languageDefaultsCSS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.css",
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
@@ -5574,6 +5687,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -5588,7 +5702,7 @@
 		"quality": 100
 		},
 	"languageDefaultsJS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*-min.js",
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
@@ -5615,11 +5729,12 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.css",
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
@@ -5647,13 +5762,13 @@
 		"enableFootnotes": 1,
 		"enableLabels": 1,
 		"enableSmartQuotes": 1,
-		"escapeLineBreaks": 0,
 		"maskEmailAddresses": 1,
 		"outputFormat": 0,
 		"outputStyle": 0,
 		"parseMetadata": 1,
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -5662,7 +5777,8 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -5682,7 +5798,8 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
-		"outputStyle": 0
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -5710,7 +5827,8 @@
 		"logicless": 0,
 		"outputFormat": 0,
 		"outputStyle": 1,
-		"railsCompatible": 0
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -5737,7 +5855,7 @@
 		"pluginMask": 3758088159
 		},
 	"languageDefaultsTS": {
-		"autoOutputAction": 0,
+		"autoOutputAction": 1,
 		"autoOutputPathFilenamePattern": "*.js",
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
