@@ -7,7 +7,7 @@
 		"uuidString": "45711BCC-6288-4FBA-9FC4-BEE48EFD7A22"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/.gitattributes": {
 		"cB": 0,
@@ -1067,7 +1067,7 @@
 		},
 	"\/img\/CIBAcceleration1600.jpg": {
 		"ft": 16384,
-		"iS": 2815264,
+		"iS": 107805,
 		"oA": 0,
 		"oAP": "\/img\/CIBAcceleration1600.jpg",
 		"oF": 0,
@@ -4472,6 +4472,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
